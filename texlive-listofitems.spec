@@ -1,6 +1,6 @@
 Name:		texlive-listofitems
-Version:	51923
-Release:	2
+Version:	66655
+Release:	1
 Summary:	Grab items in lists using user-specified sep char
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/listofitems
