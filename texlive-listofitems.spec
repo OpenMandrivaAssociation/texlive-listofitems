@@ -1,5 +1,5 @@
 Name:		texlive-listofitems
-Version:	66655
+Version:	69774
 Release:	1
 Summary:	Grab items in lists using user-specified sep char
 Group:		Publishing
