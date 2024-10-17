@@ -3,7 +3,7 @@ Version:	70579
 Release:	1
 Summary:	Grab items in lists using user-specified sep char
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/listofitems
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/listofitems
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/listofitems.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/listofitems.doc.r%{version}.tar.xz
